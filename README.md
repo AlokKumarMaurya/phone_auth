@@ -1,6 +1,6 @@
 # phone_aurth
 
-A new Flutter project.
+A new Flutter project to get user loggin using his phone number
 
 ## Getting Started
 
